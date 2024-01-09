@@ -3,7 +3,7 @@ title: "Introduction"
 teaching: 5
 exercises: 0
 questions:
-- "How can I set easily set up eic-shell to developp and compile parts of the ePIC software stack`?"
+- "How can I set easily set up eic-shell to develop and compile parts of the ePIC software stack`?"
 objectives:
 - "Download the drich-dev environment."
 keypoints:
