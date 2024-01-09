@@ -25,7 +25,7 @@ git clone git@github.com:eic/drich-dev.git
 ```
 To do so using the docker version, it is for this version best to issue git commands from outside eic-shell so that your credentials are known.
 
-Now just initialize the enviro0nment and we are ready to install a repository from scratch in the next lesson:
+Now just initialize the environment and we are ready to install a repository from scratch in the next lesson:
 ```
 cd drich-dev
 source environ.sh
